@@ -18,6 +18,10 @@ struct SwiftUIKit: View {
 }
 
 public struct  PrimaryButtonStyle: ButtonStyle {
+    
+    public init(){
+        
+    }
     public  func makeBody(configuration: Self.Configuration) -> some View
     {
         configuration.label
