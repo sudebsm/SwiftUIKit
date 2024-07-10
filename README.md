@@ -2,7 +2,7 @@ SwiftUIKit
 
 Installation
 
-You can add SwiftUIKit to an Xcode project by adding it to your project as a package with this `https://github.com/mihai8804858/swift-srt-parser`
+You can add SwiftUIKit to an Xcode project by adding it to your project as a package with this `https://github.com/sudebsm/SwiftUIKit`
 
 If you want to use SwiftUIKit in a SwiftPM project, it’s as simple as adding it to your Package.swift:
 
