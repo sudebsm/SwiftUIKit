@@ -17,8 +17,8 @@ struct SwiftUIKit: View {
     }
 }
 
-struct  PrimaryButtonStyle: ButtonStyle {
-    func makeBody(configuration: Self.Configuration) -> some View
+public struct  PrimaryButtonStyle: ButtonStyle {
+    public  func makeBody(configuration: Self.Configuration) -> some View
     {
         configuration.label
             .font(.title)
